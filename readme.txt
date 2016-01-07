@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is queck.
 Creating a new branch is queck AND simple.
 Merge --no-ff.
+Not commit,bug-101 need to fix.
+Work finished.
